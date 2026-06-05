@@ -1,0 +1,13 @@
+pandas
+streamlit
+openai
+langdetect
+openpyxl
+streamlit_browser_storage
+emoji
+rapidfuzz
+streamlit_cookies_manager
+fastapi
+pydantic
+typing
+python-dotenv
